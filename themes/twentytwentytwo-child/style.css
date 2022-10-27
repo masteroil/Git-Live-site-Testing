@@ -10,3 +10,6 @@
  Tags:         Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
  Text Domain:  twentytwentytwochild
 */
+h1 {
+  color: #000;
+}
