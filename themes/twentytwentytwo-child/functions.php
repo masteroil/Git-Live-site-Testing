@@ -7,5 +7,3 @@ function ns_enqueue_styles() {
 }
 
 add_action( 'wp_enqueue_scripts', 'ns_enqueue_styles' );
-
-//git status
